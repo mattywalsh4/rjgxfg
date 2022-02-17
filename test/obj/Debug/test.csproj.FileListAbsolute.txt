@@ -1,0 +1,10 @@
+M:\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+M:\test\test\obj\Debug\test.Form1.resources
+M:\test\test\obj\Debug\test.Properties.Resources.resources
+M:\test\test\obj\Debug\test.csproj.GenerateResource.cache
+M:\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+M:\test\test\bin\Debug\test.exe.config
+M:\test\test\bin\Debug\test.exe
+M:\test\test\bin\Debug\test.pdb
+M:\test\test\obj\Debug\test.exe
+M:\test\test\obj\Debug\test.pdb
